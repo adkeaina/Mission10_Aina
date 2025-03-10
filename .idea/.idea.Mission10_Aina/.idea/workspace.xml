@@ -9,7 +9,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c51ce1c-b550-468a-ae8e-75ee28bbc81e" name="Changes" comment="" />
+    <list default="true" id="4c51ce1c-b550-468a-ae8e-75ee28bbc81e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/BowlingLeague.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Controllers/BowlersController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Data/Bowler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Data/BowlerScore.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Data/BowlingLeagueContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Data/MatchGame.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Data/Team.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Data/Tournament.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Data/TourneyMatch.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Data/ZtblBowlerRating.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Data/ZtblSkipLabel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Data/ZtblWeek.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mission10_Aina/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mission10_Aina/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mission10_Aina/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mission10_Aina/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Controllers/MarriottFoodController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Controllers/WeatherForecastController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Data/FoodDbContext.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Data/MarriottFood.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/MarriottFood.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Migrations/20250310205541_Init.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Migrations/20250310205541_Init.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Migrations/FoodDbContextModelSnapshot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/WeatherForecast.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/bin/Debug/net8.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/bin/Debug/net8.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/bin/Debug/net8.0/backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/bin/Debug/net8.0/backend.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/bin/Debug/net8.0/backend.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/bin/Debug/net8.0/backend.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net8.0/ref/backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net8.0/ref/backend.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net8.0/refint/backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net8.0/refint/backend.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/FoodList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/types/food.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tsconfig.app.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,11 +61,30 @@
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "adkeaina"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/adkeaina/Mission10_Aina.git",
+    "accountId": "9ae96b92-86ee-4e12-bd6f-2e37fab874ae"
+  }
+}]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2u8nK4oMe4kBFZSGZ2EvMLjVugq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,6 +95,7 @@
     ".NET Launch Settings Profile.backend: http.executor": "Run",
     ".NET Launch Settings Profile.backend: https.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -104,12 +167,14 @@
       <workItem from="1741639003400" duration="933000" />
       <workItem from="1741639948934" duration="2103000" />
       <workItem from="1741643430716" duration="400000" />
+      <workItem from="1741644263365" duration="2421000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

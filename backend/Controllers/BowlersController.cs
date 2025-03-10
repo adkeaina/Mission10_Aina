@@ -1,13 +1,14 @@
 using backend.Data;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace backend.Controllers;
 [ApiController]
 [Route("[controller]")]
-public class Bowlers : Controller
+public class BowlersController : Controller
 {
     private BowlingLeagueContext _context;
-    public Bowlers(BowlingLeagueContext context)
+    public BowlersController(BowlingLeagueContext context)
     {
         _context = context;
     }
@@ -15,7 +16,7 @@ public class Bowlers : Controller
     [HttpGet(Name = "GetBowlers")]
     public IEnumerable<Bowler> Get()
     {
-        var bowlers = _context.Bowlers.ToList();
+        var bowlers = _context.Bowlers.Include(x => x.Team).ToList();
         return bowlers;
     }
 }

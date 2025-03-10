@@ -156,3 +156,4 @@
 /Users/adamaina/Documents/BYU/Winter_2025/IS_413/Mission10_Aina/backend/obj/Debug/net8.0/backend.pdb
 /Users/adamaina/Documents/BYU/Winter_2025/IS_413/Mission10_Aina/backend/obj/Debug/net8.0/backend.genruntimeconfig.cache
 /Users/adamaina/Documents/BYU/Winter_2025/IS_413/Mission10_Aina/backend/obj/Debug/net8.0/ref/backend.dll
+/Users/adamaina/Documents/BYU/Winter_2025/IS_413/Mission10_Aina/backend/obj/Debug/net8.0/backend.sourcelink.json

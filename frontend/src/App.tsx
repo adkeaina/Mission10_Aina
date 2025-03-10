@@ -1,11 +1,18 @@
 import './App.css'
-import FoodList from './FoodList'
+import BowlersList from './BowlersList'
+import Heading from './Heading'
 
 function App() {
 
   return (
     <>
-    <FoodList />
+      <Heading />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <BowlersList />
     </>
   )
 }
